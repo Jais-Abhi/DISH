@@ -6,8 +6,7 @@
 
 ## 🔗 Live Demo
 
-https://dishora.onrender.com
-
+https://dishora.vercel.app/
 ---
 
 ## 🧩 Zennit Components Used
